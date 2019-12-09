@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\cn_image_period_menu.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\menu\\cn_image_period_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\common_add.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\menu\\common_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\common_list.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\menu\\common_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\common_setting.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\menu\\common_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\common_more.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\menu\\common_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\common_menu.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\menu\\common_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\common_ok.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\menu\\common_ok.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\image_viewer_more.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\menu\\image_viewer_more.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\common_search.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\menu\\common_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\common_like.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\menu\\common_like.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\common_share.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\menu\\common_share.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\common_comment.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\menu\\common_comment.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\home_menu.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\menu\\home_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\common_edit.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\menu\\common_edit.xml"
+    }
+]

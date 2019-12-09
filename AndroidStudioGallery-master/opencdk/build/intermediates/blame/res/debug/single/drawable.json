@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\res\\merged\\debug\\drawable\\api_progress_circle_orange.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\src\\main\\res\\drawable\\api_progress_circle_orange.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\res\\merged\\debug\\drawable\\api_progressbar_download_notification.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\src\\main\\res\\drawable\\api_progressbar_download_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\res\\merged\\debug\\drawable\\vpi__tab_indicator.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\src\\main\\res\\drawable\\vpi__tab_indicator.xml"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\src\\main\\res\\drawable-xhdpi\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\sr_loader_circle_left.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\src\\main\\res\\drawable-xhdpi\\sr_loader_circle_left.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\api_load_orange.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\src\\main\\res\\drawable-xhdpi\\api_load_orange.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\sr_loader_circle_right.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\src\\main\\res\\drawable-xhdpi\\sr_loader_circle_right.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\src\\main\\res\\drawable-xhdpi\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\src\\main\\res\\drawable-xhdpi\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\src\\main\\res\\drawable-xhdpi\\vpi__tab_selected_focused_holo.9.png"
+    }
+]

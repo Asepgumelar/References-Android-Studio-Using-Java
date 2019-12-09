@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_view_slide_bottom_out.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\src\\main\\res\\anim\\bottom_view_slide_bottom_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_view_slide_bottom_in.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\src\\main\\res\\anim\\bottom_view_slide_bottom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\res\\merged\\debug\\anim\\api_progressbar_pulltorefresh.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\src\\main\\res\\anim\\api_progressbar_pulltorefresh.xml"
+    }
+]

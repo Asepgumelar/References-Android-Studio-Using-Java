@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="output$Generated" generated="true"><source path="C:\Users\bob\.android\build-cache\b5e33214181236826e89fdb3e852ae98365a3e5b\output\res"/></dataSet><dataSet config="output$Generated" generated="true"><source path="C:\Users\bob\.android\build-cache\bd2477b0e8445241556f4fc477e5260c2cd16dfa\output\res"/></dataSet><dataSet config="main$Generated" generated="true"><source path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res"/><source path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\build\generated\res\rs\debug"/><source path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\debug\res"/></dataSet><dataSet config="output" from-dependency="true" generated-set="output$Generated"><source path="C:\Users\bob\.android\build-cache\b5e33214181236826e89fdb3e852ae98365a3e5b\output\res"/></dataSet><dataSet config="output" from-dependency="true" generated-set="output$Generated"><source path="C:\Users\bob\.android\build-cache\bd2477b0e8445241556f4fc477e5260c2cd16dfa\output\res"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res"><file name="api_progressbar_pulltorefresh" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\anim\api_progressbar_pulltorefresh.xml" qualifiers="" type="anim"/><file name="bottom_view_slide_bottom_in" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\anim\bottom_view_slide_bottom_in.xml" qualifiers="" type="anim"/><file name="bottom_view_slide_bottom_out" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\anim\bottom_view_slide_bottom_out.xml" qualifiers="" type="anim"/><file name="vpi__dark_theme" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\color\vpi__dark_theme.xml" qualifiers="" type="color"/><file name="vpi__light_theme" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\color\vpi__light_theme.xml" qualifiers="" type="color"/><file name="api_progressbar_download_notification" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable\api_progressbar_download_notification.xml" qualifiers="" type="drawable"/><file name="api_progress_circle_orange" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable\api_progress_circle_orange.xml" qualifiers="" type="drawable"/><file name="vpi__tab_indicator" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable\vpi__tab_indicator.xml" qualifiers="" type="drawable"/><file name="api_spinner_black_16" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-hdpi\api_spinner_black_16.png" qualifiers="hdpi-v4" type="drawable"/><file name="api_spinner_black_20" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-hdpi\api_spinner_black_20.png" qualifiers="hdpi-v4" type="drawable"/><file name="api_spinner_black_48" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-hdpi\api_spinner_black_48.png" qualifiers="hdpi-v4" type="drawable"/><file name="notification_icon" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-hdpi\notification_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="notification_remote_icon" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-hdpi\notification_remote_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="noti_file_default_icon" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-hdpi\noti_file_default_icon.png" qualifiers="hdpi-v4" type="drawable"/><file name="ptr_flip_default" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-hdpi\ptr_flip_default.png" qualifiers="hdpi-v4" type="drawable"/><file name="ptr_indicator_arrow" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-hdpi\ptr_indicator_arrow.png" qualifiers="hdpi-v4" type="drawable"/><file name="ptr_pull_loading" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-hdpi\ptr_pull_loading.png" qualifiers="hdpi-v4" type="drawable"/><file name="ptr_rotate_default" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-hdpi\ptr_rotate_default.png" qualifiers="hdpi-v4" type="drawable"/><file name="vpi__tab_selected_focused_holo" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-hdpi\vpi__tab_selected_focused_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="vpi__tab_selected_holo" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-hdpi\vpi__tab_selected_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="vpi__tab_selected_pressed_holo" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-hdpi\vpi__tab_selected_pressed_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="vpi__tab_unselected_focused_holo" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-hdpi\vpi__tab_unselected_focused_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="vpi__tab_unselected_holo" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-hdpi\vpi__tab_unselected_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="vpi__tab_unselected_pressed_holo" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-hdpi\vpi__tab_unselected_pressed_holo.9.png" qualifiers="hdpi-v4" type="drawable"/><file name="wo2b_blue" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-hdpi\wo2b_blue.png" qualifiers="hdpi-v4" type="drawable"/><file name="wo2b_green" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-hdpi\wo2b_green.png" qualifiers="hdpi-v4" type="drawable"/><file name="vpi__tab_selected_focused_holo" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-mdpi\vpi__tab_selected_focused_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_selected_holo" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-mdpi\vpi__tab_selected_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_selected_pressed_holo" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-mdpi\vpi__tab_selected_pressed_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_unselected_focused_holo" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-mdpi\vpi__tab_unselected_focused_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_unselected_holo" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-mdpi\vpi__tab_unselected_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="vpi__tab_unselected_pressed_holo" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-mdpi\vpi__tab_unselected_pressed_holo.9.png" qualifiers="mdpi-v4" type="drawable"/><file name="api_load_orange" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-xhdpi\api_load_orange.png" qualifiers="xhdpi-v4" type="drawable"/><file name="sr_loader_circle_left" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-xhdpi\sr_loader_circle_left.png" qualifiers="xhdpi-v4" type="drawable"/><file name="sr_loader_circle_right" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-xhdpi\sr_loader_circle_right.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_selected_focused_holo" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-xhdpi\vpi__tab_selected_focused_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_selected_holo" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-xhdpi\vpi__tab_selected_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_selected_pressed_holo" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-xhdpi\vpi__tab_selected_pressed_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_unselected_focused_holo" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-xhdpi\vpi__tab_unselected_focused_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_unselected_holo" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-xhdpi\vpi__tab_unselected_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="vpi__tab_unselected_pressed_holo" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\drawable-xhdpi\vpi__tab_unselected_pressed_holo.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="api_cropper_image_view" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\layout\api_cropper_image_view.xml" qualifiers="" type="layout"/><file name="api_download_notification" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\layout\api_download_notification.xml" qualifiers="" type="layout"/><file name="api_download_notification_ok" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\layout\api_download_notification_ok.xml" qualifiers="" type="layout"/><file name="sr_loader_view" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\layout\sr_loader_view.xml" qualifiers="" type="layout"/><file name="wrapper_cn_image_autoplay_item" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\layout\wrapper_cn_image_autoplay_item.xml" qualifiers="" type="layout"/><file path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="SwipeRefresh">
+
+        
+        <attr format="boolean" name="srEnable"/>
+        
+        <attr name="srScrollbar">
+            <flag name="none" value="0x00000000"/>
+            <flag name="horizontal" value="0x00000100"/>
+            <flag name="vertical" value="0x00000200"/>
+        </attr>
+        
+        
+        <attr format="dimension" name="srPaddingLeft"/>
+        <attr format="dimension" name="srPaddingRight"/>
+        <attr format="dimension" name="srPaddingTop"/>
+        <attr format="dimension" name="srPaddingBottom"/>
+        
+        
+        
+        
+        <attr name="srOrientation">
+            <flag name="horizontal" value="0"/>
+            <flag name="vertical" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="srSpanCount"/>
+        
+        <attr format="boolean" name="srReverseLayout"/>
+        
+        <attr format="reference" name="srDivider"/>
+        
+        
+        <attr format="boolean" name="srShowLoadView"/>
+        
+        
+        <attr name="srLoaderStyle">
+            <flag name="none" value="-1"/>
+            <flag name="auto" value="0"/>
+            <flag name="manual" value="1"/>
+        </attr>
+    </declare-styleable><attr format="reference" name="listDivider"/></file><file path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\values\colors.xml" qualifiers=""><color name="wo2b_gray_deep">#ff333333</color><color name="wo2b_cachecolorhint">#00000000</color><color name="wo2b_border_color_f0">#f0cccccc</color><color name="wo2b_border_color_00">#00cccccc</color><color name="wo2b_magenta">#ffff00ff</color><color name="wo2b_gray_light">#ff999999</color><color name="wo2b_whitesmoke">#f5f5f5</color><color name="wo2b_translucence_b0">#b0000000</color><color name="wo2b_black">#ff000000</color><color name="wo2b_white">#ffffffff</color><color name="wo2b_translucence_f0">#f0000000</color><color name="wo2b_divider_color">#ff666666</color><color name="wo2b_dkgray">#ff444444</color><color name="wo2b_green">#ff008000</color><color name="wo2b_translucence_d0">#d0000000</color><color name="wo2b_border_color_d0">#d0cccccc</color><color name="wo2b_yellow">#ffffff00</color><color name="wo2b_border_color_b0">#b0cccccc</color><color name="wo2b_gainsboro">#dcdcdc</color><color name="wo2b_red">#ffff0000</color><color name="wo2b_translucence_00">#00000000</color><color name="wo2b_border_color_e0">#e0cccccc</color><color name="wo2b_translucence_c0">#c0000000</color><color name="wo2b_translucence_a0">#a0000000</color><color name="wo2b_translucence_e0">#e0000000</color><color name="wo2b_blue">#ff0000ff</color><color name="wo2b_border_color_c0">#c0cccccc</color><color name="wo2b_border_color_a0">#a0cccccc</color><color name="wo2b_gray">#ff888888</color><color name="wo2b_cyan">#ff00ffff</color><color name="wo2b_ltgray">#ffcccccc</color></file><file path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\values\ids.xml" qualifiers=""><item name="srWebview" type="id"/><item name="srViewPager" type="id"/><item name="srGridView" type="id"/><item name="srScrollview" type="id"/><item name="srRecyclerView" type="id"/></file><file path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\values\opensourceattrs.xml" qualifiers=""><declare-styleable name="CropImageView">
+        <attr name="guidelines">
+            <enum name="on" value="2"/>
+            <enum name="onTouch" value="1"/>
+            <enum name="off" value="0"/>
+        </attr>
+        <attr format="boolean" name="fixAspectRatio"/>
+        <attr format="integer" name="aspectRatioX"/>
+        <attr format="integer" name="aspectRatioY"/>
+        <attr format="reference" name="imageResource"/>
+    </declare-styleable><declare-styleable name="RoundedImageView">
+        <attr format="dimension" name="corner_radius"/>
+        <attr format="dimension" name="border_width"/>
+        <attr format="color" name="border_color"/>
+        <attr format="boolean" name="mutate_background"/>
+        <attr format="boolean" name="oval"/>
+        <attr name="android:scaleType"/>
+    </declare-styleable></file><file path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\values\strings.xml" qualifiers=""><string name="opencdk_action_settings">Settings</string><string name="null_text"/><string name="cdk_download_ok">下载完成，点击打开</string><string name="null_image">image</string><string name="cdk_download_progress_100">100%</string><string name="cdk_downloading">正在下载</string><string name="cdk_download_url_invalid">下载地址无效</string><string name="cdk_download_file_not_found">文件找不到了</string><string name="cdk_download_url_repeat">不能重复下载</string><string name="cdk_cancel">取消</string><string name="cdk_download_progress_0">0%</string><string name="opencdk">opencdk</string></file><file path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\values\styles.xml" qualifiers=""><style name="wo2b_custom_dialog_title_text">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/wo2b_black</item>
+    </style><style name="bottomView_animation" parent="android:Animation">
+        <item name="@android:windowEnterAnimation">@anim/bottom_view_slide_bottom_in</item>
+        <item name="@android:windowExitAnimation">@anim/bottom_view_slide_bottom_out</item>
+    </style><style name="CDK.Widget.ProgressBar.Circle.Orange" parent="@android:style/Widget.ProgressBar">
+        <item name="android:indeterminateOnly">true</item>
+        <item name="android:indeterminateDrawable">@drawable/api_progress_circle_orange</item>
+        <item name="android:indeterminateBehavior">repeat</item>
+        <item name="android:indeterminateDuration">1500</item>
+        <item name="android:minWidth">30dip</item>
+        <item name="android:maxWidth">30dip</item>
+        <item name="android:minHeight">30dip</item>
+        <item name="android:maxHeight">30dip</item>
+    </style><style name="bottomView_theme_default">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style><style name="wo2b_custom_dialog_no_title" parent="android:style/Theme.Dialog">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsFloating">true</item>
+    </style><style name="wo2b_custom_dialog_message_text">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/wo2b_gray_deep</item>
+    </style><style name="bottomView_theme_transparent">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        
+        <item name="android:windowIsTranslucent">false</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style></file><file path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\values\vpi__attrs.xml" qualifiers=""><attr format="dimension" name="strokeWidth"/><declare-styleable name="ViewPagerIndicator">
+        
+        <attr format="reference" name="vpiCirclePageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiIconPageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiLinePageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiTitlePageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiTabPageIndicatorStyle"/>
+        
+        <attr format="reference" name="vpiUnderlinePageIndicatorStyle"/>
+    </declare-styleable><attr format="color" name="unselectedColor"/><declare-styleable name="CirclePageIndicator">
+        
+        <attr name="centered"/>
+        
+        <attr format="color" name="fillColor"/>
+        
+        <attr format="color" name="pageColor"/>
+        
+        <attr name="android:orientation"/>
+        
+        <attr format="dimension" name="radius"/>
+        
+        <attr format="boolean" name="snap"/>
+        
+        <attr format="color" name="strokeColor"/>
+        
+        <attr name="strokeWidth"/>
+        
+        <attr name="android:background"/>
+    </declare-styleable><attr format="color" name="selectedColor"/><attr format="boolean" name="centered"/><declare-styleable name="LinePageIndicator">
+        
+        <attr name="centered"/>
+        
+        <attr name="unselectedColor"/>
+        
+        <attr name="selectedColor"/>
+        
+        <attr format="dimension" name="lineWidth"/>
+        
+        <attr name="strokeWidth"/>
+        
+        <attr format="dimension" name="gapWidth"/>
+        
+        <attr name="android:background"/>
+    </declare-styleable><declare-styleable name="UnderlinePageIndicator">
+        
+        <attr format="boolean" name="fades"/>
+        
+        <attr format="integer" name="fadeDelay"/>
+        
+        <attr format="integer" name="fadeLength"/>
+        
+        <attr name="selectedColor"/>
+        
+        <attr name="android:background"/>
+    </declare-styleable><declare-styleable name="TitlePageIndicator">
+        
+        <attr format="dimension" name="clipPadding"/>
+        
+        <attr format="color" name="footerColor"/>
+        
+        <attr format="dimension" name="footerLineHeight"/>
+        
+        <attr name="footerIndicatorStyle">
+            <enum name="none" value="0"/>
+            <enum name="triangle" value="1"/>
+            <enum name="underline" value="2"/>
+        </attr>
+        
+        <attr format="dimension" name="footerIndicatorHeight"/>
+        
+        <attr format="dimension" name="footerIndicatorUnderlinePadding"/>
+        
+        <attr format="dimension" name="footerPadding"/>
+        
+        <attr name="linePosition">
+            <enum name="bottom" value="0"/>
+            <enum name="top" value="1"/>
+        </attr>
+        
+        <attr name="selectedColor"/>
+        
+        <attr format="boolean" name="selectedBold"/>
+        
+        <attr name="android:textColor"/>
+        
+        <attr name="android:textSize"/>
+        
+        <attr format="dimension" name="titlePadding"/>
+        
+        <attr format="dimension" name="topPadding"/>
+        
+        <attr name="android:background"/>
+    </declare-styleable></file><file path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\values\vpi__colors.xml" qualifiers=""><color name="vpi__bright_foreground_holo_light">@color/vpi__background_holo_dark</color><color name="vpi__bright_foreground_disabled_holo_dark">#ff4c4c4c</color><color name="vpi__bright_foreground_inverse_holo_light">@color/vpi__bright_foreground_holo_dark</color><color name="vpi__bright_foreground_disabled_holo_light">#ffb2b2b2</color><color name="vpi__bright_foreground_inverse_holo_dark">@color/vpi__bright_foreground_holo_light</color><color name="vpi__bright_foreground_holo_dark">@color/vpi__background_holo_light</color><color name="vpi__background_holo_dark">#ff000000</color><color name="vpi__background_holo_light">#fff3f3f3</color></file><file path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\values\vpi__defaults.xml" qualifiers=""><dimen name="default_title_indicator_title_padding">5dp</dimen><dimen name="default_circle_indicator_stroke_width">1dp</dimen><dimen name="default_title_indicator_footer_indicator_height">4dp</dimen><bool name="default_circle_indicator_centered">true</bool><color name="default_circle_indicator_page_color">#00000000</color><dimen name="default_title_indicator_footer_indicator_underline_padding">20dp</dimen><dimen name="default_circle_indicator_radius">3dp</dimen><integer name="default_underline_indicator_fade_length">400</integer><integer name="default_circle_indicator_orientation">0</integer><integer name="default_underline_indicator_fade_delay">300</integer><integer name="default_title_indicator_footer_indicator_style">2</integer><color name="default_underline_indicator_selected_color">#FF33B5E5</color><dimen name="default_line_indicator_gap_width">4dp</dimen><color name="default_line_indicator_selected_color">#FF33B5E5</color><bool name="default_circle_indicator_snap">false</bool><color name="default_line_indicator_unselected_color">#FFBBBBBB</color><color name="default_title_indicator_selected_color">#FFFFFFFF</color><dimen name="default_line_indicator_line_width">12dp</dimen><dimen name="default_title_indicator_clip_padding">4dp</dimen><dimen name="default_title_indicator_footer_line_height">2dp</dimen><integer name="default_title_indicator_line_position">0</integer><dimen name="default_title_indicator_text_size">15dp</dimen><dimen name="default_title_indicator_footer_padding">7dp</dimen><color name="default_title_indicator_text_color">#BBFFFFFF</color><bool name="default_title_indicator_selected_bold">true</bool><dimen name="default_line_indicator_stroke_width">1dp</dimen><dimen name="default_title_indicator_top_padding">7dp</dimen><color name="default_circle_indicator_stroke_color">#FFDDDDDD</color><color name="default_title_indicator_footer_color">#FF33B5E5</color><bool name="default_line_indicator_centered">true</bool><color name="default_circle_indicator_fill_color">#FFFFFFFF</color><bool name="default_underline_indicator_fades">true</bool></file><file path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\main\res\values\vpi__styles.xml" qualifiers=""><style name="Widget.TabPageIndicator" parent="Widget">
+        <item name="android:gravity">center</item>
+        <item name="android:background">@drawable/vpi__tab_indicator</item>
+        <item name="android:paddingLeft">22dip</item>
+        <item name="android:paddingRight">22dip</item>
+        <item name="android:paddingTop">12dp</item>
+        <item name="android:paddingBottom">12dp</item>
+        <item name="android:textAppearance">@style/TextAppearance.TabPageIndicator</item>
+        <item name="android:textSize">12sp</item>
+        <item name="android:maxLines">1</item>
+    </style><style name="Widget">
+    </style><style name="Theme.PageIndicatorDefaults" parent="android:Theme">
+        <item name="vpiIconPageIndicatorStyle">@style/Widget.IconPageIndicator</item>
+        <item name="vpiTabPageIndicatorStyle">@style/Widget.TabPageIndicator</item>
+    </style><style name="TextAppearance.TabPageIndicator" parent="Widget">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/vpi__dark_theme</item>
+    </style><style name="Widget.IconPageIndicator" parent="Widget">
+        <item name="android:layout_marginLeft">6dp</item>
+        <item name="android:layout_marginRight">6dp</item>
+    </style></file></source><source path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\build\generated\res\rs\debug"/><source path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\src\debug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="RoundedImageView"><attr format="dimension" name="corner_radius"/><attr format="dimension" name="border_width"/><attr format="color" name="border_color"/><attr format="boolean" name="mutate_background"/><attr format="boolean" name="oval"/><attr name="android:scaleType"/></declare-styleable><declare-styleable name="ViewPagerIndicator"><attr format="reference" name="vpiCirclePageIndicatorStyle"/><attr format="reference" name="vpiIconPageIndicatorStyle"/><attr format="reference" name="vpiLinePageIndicatorStyle"/><attr format="reference" name="vpiTitlePageIndicatorStyle"/><attr format="reference" name="vpiTabPageIndicatorStyle"/><attr format="reference" name="vpiUnderlinePageIndicatorStyle"/></declare-styleable><declare-styleable name="LinePageIndicator"><attr name="centered"/><attr name="unselectedColor"/><attr name="selectedColor"/><attr format="dimension" name="lineWidth"/><attr name="strokeWidth"/><attr format="dimension" name="gapWidth"/><attr name="android:background"/></declare-styleable><declare-styleable name="SwipeRefresh"><attr format="boolean" name="srEnable"/><attr name="srScrollbar">
+            <flag name="none" value="0x00000000"/>
+            <flag name="horizontal" value="0x00000100"/>
+            <flag name="vertical" value="0x00000200"/>
+        </attr><attr format="dimension" name="srPaddingLeft"/><attr format="dimension" name="srPaddingRight"/><attr format="dimension" name="srPaddingTop"/><attr format="dimension" name="srPaddingBottom"/><attr name="srOrientation">
+            <flag name="horizontal" value="0"/>
+            <flag name="vertical" value="1"/>
+        </attr><attr format="integer" name="srSpanCount"/><attr format="boolean" name="srReverseLayout"/><attr format="reference" name="srDivider"/><attr format="boolean" name="srShowLoadView"/><attr name="srLoaderStyle">
+            <flag name="none" value="-1"/>
+            <flag name="auto" value="0"/>
+            <flag name="manual" value="1"/>
+        </attr></declare-styleable><declare-styleable name="UnderlinePageIndicator"><attr format="boolean" name="fades"/><attr format="integer" name="fadeDelay"/><attr format="integer" name="fadeLength"/><attr name="selectedColor"/><attr name="android:background"/></declare-styleable><declare-styleable name="CropImageView"><attr name="guidelines">
+            <enum name="on" value="2"/>
+            <enum name="onTouch" value="1"/>
+            <enum name="off" value="0"/>
+        </attr><attr format="boolean" name="fixAspectRatio"/><attr format="integer" name="aspectRatioX"/><attr format="integer" name="aspectRatioY"/><attr format="reference" name="imageResource"/></declare-styleable><declare-styleable name="TitlePageIndicator"><attr format="dimension" name="clipPadding"/><attr format="color" name="footerColor"/><attr format="dimension" name="footerLineHeight"/><attr name="footerIndicatorStyle">
+            <enum name="none" value="0"/>
+            <enum name="triangle" value="1"/>
+            <enum name="underline" value="2"/>
+        </attr><attr format="dimension" name="footerIndicatorHeight"/><attr format="dimension" name="footerIndicatorUnderlinePadding"/><attr format="dimension" name="footerPadding"/><attr name="linePosition">
+            <enum name="bottom" value="0"/>
+            <enum name="top" value="1"/>
+        </attr><attr name="selectedColor"/><attr format="boolean" name="selectedBold"/><attr name="android:textColor"/><attr name="android:textSize"/><attr format="dimension" name="titlePadding"/><attr format="dimension" name="topPadding"/><attr name="android:background"/></declare-styleable><declare-styleable name="CirclePageIndicator"><attr name="centered"/><attr format="color" name="fillColor"/><attr format="color" name="pageColor"/><attr name="android:orientation"/><attr format="dimension" name="radius"/><attr format="boolean" name="snap"/><attr format="color" name="strokeColor"/><attr name="strokeWidth"/><attr name="android:background"/></declare-styleable></configuration></mergedItems></merger>

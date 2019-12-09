@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\openwrapper\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="35bf67f66e9e6d0c1f360f8afbc3846b5304f7c0">
+        <dex dex="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\app\build\intermediates\pre-dexed\debug\classes_8d3290c1affec04f05b06197203c34299765326d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\build\intermediates\bundles\default\libs\fastjson-1.1.38.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="75679621a50f085ad0144e88748996012db52bfa">
+        <dex dex="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\app\build\intermediates\pre-dexed\debug\fastjson-1.1.38_d1d4c4c861b89d3221896d7e86c630abff604e01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\build\intermediates\bundles\default\libs\ormlite-android-4.45.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="56a5c677acc10476e7ae66268fb61ad76bf77aaf">
+        <dex dex="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\app\build\intermediates\pre-dexed\debug\ormlite-android-4.45_6277c0e369e07f53b4314482446b8bf3980f777b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\tpumeng\build\intermediates\bundles\default\libs\umeng-analytics-v5.2.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f50b7faaf5721c3066106cb5f01afe404fd7f53b">
+        <dex dex="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\app\build\intermediates\pre-dexed\debug\umeng-analytics-v5.2.4_7d1e0710755b6e032924e18cb50abf87943978e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bob\.android\build-cache\b5e33214181236826e89fdb3e852ae98365a3e5b\output\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3_454a3a27257b757875e04de6588670e7e0191559.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bob\.android\build-cache\bd2477b0e8445241556f4fc477e5260c2cd16dfa\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b8945fc23a7461c6fdde15753456d64b0a9358b">
+        <dex dex="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\app\build\intermediates\pre-dexed\debug\classes_349676ef1ad9d8f5221f72648022c221b39652da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="715a14a257ef1cfd306a9967fa59b0ad76e6d85f">
+        <dex dex="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\app\build\intermediates\pre-dexed\debug\classes_036763a23ab3e22da4c6c97f7630581508f45c39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\opencdk\build\intermediates\bundles\default\libs\ormlite-core-4.45.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="08d6b0611299d11d769f6f3702b41d737dfc79c3">
+        <dex dex="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\app\build\intermediates\pre-dexed\debug\ormlite-core-4.45_d76acfe9c7de5884dc02b81f4b50adb2e4fb8042.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bob\.android\build-cache\a50322f239c9185fafd510e2263bf6c9f79edbe4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\app\build\intermediates\pre-dexed\debug\classes_a0a0014fb72df57f0947159321ce73245114509a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\tpumeng\build\intermediates\bundles\default\libs\umeng-fb-v4.3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2b69daa974e559c4df5cbb352507f2fd1f3d08a8">
+        <dex dex="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\app\build\intermediates\pre-dexed\debug\umeng-fb-v4.3.2_a1eeeac259be406bef356176e68880fc9f76f602.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bob\.android\build-cache\b5e33214181236826e89fdb3e852ae98365a3e5b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\app\build\intermediates\pre-dexed\debug\classes_ef7d993475c5dbef7d103f167e44fc77b597a364.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bob\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\21.0.3\4b74cefe1f0c1b819e7260c8627a14674e37fd35\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3_fb5ab4653f2034015fcf4bd080208bff644acb8d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\tpumeng\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9442248b96253260cfa3ed9d8eda6eaba6a7ae49">
+        <dex dex="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\app\build\intermediates\pre-dexed\debug\classes_800ced2c02dbc110657267a07c2c76ccbe5aaac5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\tpumeng\build\intermediates\bundles\default\libs\umeng-update-v2.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4418525b7d44b1ded95ed9b10c0d7d94b16a4b9a">
+        <dex dex="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\app\build\intermediates\pre-dexed\debug\umeng-update-v2.4.2_ceb5deaa7bba99c5a19a94e8972a27e17e3164a7.jar" />
+    </item>
+
+</items>

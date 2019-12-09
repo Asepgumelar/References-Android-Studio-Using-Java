@@ -1,0 +1,510 @@
+[
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\uc_setting_traffic_statistics.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\uc_setting_traffic_statistics.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\global_toast.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\global_toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_fb_list_item.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\layout\\umeng_fb_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\blossom_album_list_group_item.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\blossom_album_list_group_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tu_tujie_story.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\tu_tujie_story.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_grid_list_item_odd.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\image_grid_list_item_odd.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wrapper_wo2b_app_list.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\wrapper_wo2b_app_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tu_no_title.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\tu_no_title.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\base_warning_bar.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\base_warning_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_common_download_notification.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\layout\\umeng_common_download_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\blossom_album_list_item.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\blossom_album_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wrapper_cn_image_autoplay.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\wrapper_cn_image_autoplay.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\global_dialog_progress_loading.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\global_dialog_progress_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\blossom_album_grid_fm.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\blossom_album_grid_fm.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash_main.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\splash_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\x_preference.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\x_preference.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_grid_list_item_even.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\image_grid_list_item_even.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\global_lable_edittext.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\global_lable_edittext.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_developer_home.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\common_developer_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\search_main_global.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\search_main_global.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\blossom_main.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\blossom_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wrapper_news_main.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\wrapper_news_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\local_album_grid_list.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\local_album_grid_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_fb_activity_conversation.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\layout\\umeng_fb_activity_conversation.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rocky_menu_grid_pop.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\rocky_menu_grid_pop.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_simple_dropdown_hint.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\layout\\abc_simple_dropdown_hint.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\global_dialog_text.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\global_dialog_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\global_bottom_dialog.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\global_bottom_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_grid_list_item.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\image_grid_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wrapper_user_login.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\wrapper_user_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rocky_line_v_margin.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\rocky_line_v_margin.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\x_pop_cmd_delete.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\x_pop_cmd_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wrapper_wo2b_plugin_list_item.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\wrapper_wo2b_plugin_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_welcome_item.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\app_welcome_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\x_search_box.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\x_search_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\global_bottom_dialog_item.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\global_bottom_dialog_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wrapper_user_register.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\wrapper_user_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_viewer_wallpaper.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\image_viewer_wallpaper.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wrapper_user_grade_list_item.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\wrapper_user_grade_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\local_album_focus_list.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\local_album_focus_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\blossom_hotmm_view.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\blossom_hotmm_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tu_lockview_keyboard_item.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\tu_lockview_keyboard_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rocky_file_explorer.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\rocky_file_explorer.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wrapper_base_group_list_item.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\wrapper_base_group_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\api_cropper_image_view.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\bundles\\default\\res\\layout\\api_cropper_image_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\uc_setting_storage_mgr.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\uc_setting_storage_mgr.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wrapper_comment_main.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\wrapper_comment_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tu_baike_list_item.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\tu_baike_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\global_top_tab.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\global_top_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\api_download_notification.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\bundles\\default\\res\\layout\\api_download_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_fb_list_header.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\layout\\umeng_fb_list_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\common_article_reader.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\common_article_reader.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wrapper_cn_image_cropper.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\wrapper_cn_image_cropper.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tu_baike_main.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\tu_baike_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\x_pop_cmd_list_item.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\x_pop_cmd_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wrapper_wo2b_plugin_list.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\wrapper_wo2b_plugin_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\api_download_notification_ok.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\bundles\\default\\res\\layout\\api_download_notification_ok.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\sr_loader_view.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\bundles\\default\\res\\layout\\sr_loader_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wrapper_user_grade_list.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\wrapper_user_grade_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vertical_popup_menu.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\vertical_popup_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wrapper_user_get_pwd_email.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\wrapper_user_get_pwd_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_fb_activity_contact.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\layout\\umeng_fb_activity_contact.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wrapper_webview.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\wrapper_webview.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_fb_new_reply_alert_dialog.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\layout\\umeng_fb_new_reply_alert_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\local_album_focus_list_item.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\local_album_focus_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\actionbar_search_view.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\actionbar_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\global_dialog_guide.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\global_dialog_guide.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tu_home.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\tu_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\uc_setting_about.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\uc_setting_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_viewer.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\image_viewer.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wrapper_webview_nav_bottom.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\wrapper_webview_nav_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wrapper_empty_view.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\wrapper_empty_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tu_tujie_statement.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\tu_tujie_statement.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\uc_setting_main.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\uc_setting_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rocky_menu_grid_item_icon.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\rocky_menu_grid_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\global_base_activity.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\global_base_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_grid_list.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\image_grid_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tu_baike_ads_item.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\tu_baike_ads_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\vertical_popup_menu_item.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\vertical_popup_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\uc_home.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\uc_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\local_album_grid_list_item.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\local_album_grid_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wrapper_news_main_list_item.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\wrapper_news_main_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wrapper_cn_user_main.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\wrapper_cn_user_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\uc_setting_super_power.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\uc_setting_super_power.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wrapper_user_detail.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\wrapper_user_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wrapper_cn_image_autoplay_item.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\bundles\\default\\res\\layout\\wrapper_cn_image_autoplay_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\global_top_tab_view.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\global_top_tab_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rocky_file_list_item.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\rocky_file_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_include.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\layout\\abc_activity_chooser_view_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\widget.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\widget.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\umeng_update_dialog.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\layout\\umeng_update_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\global_search_list.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\global_search_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tu_lockview.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\tu_lockview.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wrapper_comment_main_list_item.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\wrapper_comment_main_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\uc_personal_tailor.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\uc_personal_tailor.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\uc_setting_storage_list_item.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\uc_setting_storage_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rocky_home_tab_indicator.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\rocky_home_tab_indicator.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\x_preference_green.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\x_preference_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_welcome.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\app_welcome.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wrapper_empty_view_progressbar.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\wrapper_empty_view_progressbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\blossom_album_grid_item.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\blossom_album_grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\x_pop_cmd_horizontal_list.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\x_pop_cmd_horizontal_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wrapper_wo2b_app_list_item.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\wrapper_wo2b_app_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_viewer_item.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\layout\\image_viewer_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\wrapper_cn_image_autoplay_image_switcher.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\layout\\wrapper_cn_image_autoplay_image_switcher.xml"
+    }
+]

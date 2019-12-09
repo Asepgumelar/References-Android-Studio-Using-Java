@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\tpumeng\src\main\jniLibs"><file name="armeabi/libbspatch.so" path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\tpumeng\src\main\jniLibs\armeabi\libbspatch.so"/></source></dataSet><dataSet config="release"><source path="C:\Users\bob\Downloads\android\AndroidStudioGallery-master\tpumeng\src\release\jniLibs"/></dataSet></merger>

@@ -1,0 +1,962 @@
+[
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\listitem_grey_pressed.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\listitem_grey_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_fb_reply_left_bg.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_fb_reply_left_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_preference_single_pressed.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\ic_preference_single_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\browser_back_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\browser_back_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_fb_tick_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_fb_tick_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\base_send_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\base_send_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_loading.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_loading.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\base_input_bg.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\base_input_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\base_warning_bar_bg.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\base_warning_bar_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\g_category_green_left.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\g_category_green_left.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vpi__tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_setting_btn_pressed.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_setting_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\wo2b_logo.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\wo2b_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\browser_refresh_pressed.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\browser_refresh_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\we_have_a_dream.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\we_have_a_dream.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\bg_dialog_content.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\bg_dialog_content.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\empty_view_loading_fade.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\empty_view_loading_fade.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_setting_btn_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_setting_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_update_btn_check_off_holo_light.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_update_btn_check_off_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_fb_list_item.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_fb_list_item.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\browser_forward_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\browser_forward_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_search_btn_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_search_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\comment_input.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\comment_input.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\noti_file_default_icon.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\noti_file_default_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\xp_check_off_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\xp_check_off_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\comment_content_bg.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\comment_content_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\xp_icon_role_vip_red.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\xp_icon_role_vip_red.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\base_input_bg_focused.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\base_input_bg_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_level_yellow_4.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\icon_level_yellow_4.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\xp_badge_text.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\xp_badge_text.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\warn_image_loading.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\warn_image_loading.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\image_loading_small.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\image_loading_small.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_back_null.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_back_null.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\image_loading_long.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\image_loading_long.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\demo.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\demo.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\chatfrom_bg_pressed.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\chatfrom_bg_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\apk_used_now.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\apk_used_now.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\wo2b_green.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\wo2b_green.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\checkbox_checked.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\checkbox_checked.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\empty_view_data_empty.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\empty_view_data_empty.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_remote_icon.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\notification_remote_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_share_btn_pressed.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_share_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\apk_download.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\apk_download.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\api_spinner_black_20.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\api_spinner_black_20.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\g_category_yellow_left.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\g_category_yellow_left.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\image_not_found_long.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\image_not_found_long.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_edit_btn_pressed.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_edit_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\xp_like_grey.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\xp_like_grey.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_update_btn_check_off_pressed_holo_light.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_update_btn_check_off_pressed_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\input_blue_focused.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\input_blue_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_fb_contact_input2.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_fb_contact_input2.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_share_btn_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_share_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_list_btn_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_list_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_back_btn_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_back_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\xp_icon_gold2.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\xp_icon_gold2.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_preference_last_normal.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\ic_preference_last_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\api_spinner_black_16.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\api_spinner_black_16.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\browser_back_pressed.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\browser_back_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_menu_btn_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_menu_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ptr_flip_default.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\ptr_flip_default.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_fb_title_btn_normal.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_fb_title_btn_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_preference_middle_normal.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\ic_preference_middle_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_fb_tick_selected.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_fb_tick_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\browser_close_pressed.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\browser_close_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ab_share_pack_holo_light.9.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_fb_back_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_fb_back_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_spinner_outer.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_spinner_outer.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tu_listitem_blue_focused.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\tu_listitem_blue_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_fb_send_pressed.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_fb_send_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\dialog_title_bg.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\dialog_title_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\gravatar_round.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\gravatar_round.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_update_close_bg_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_update_close_bg_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\popup_bg_no_margin.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\popup_bg_no_margin.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_preference_one_pressed.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\ic_preference_one_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_green_transparent_pressed.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\btn_green_transparent_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_preference_top_pressed.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\ic_preference_top_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ptr_indicator_arrow.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\ptr_indicator_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\g_category_red_left.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\g_category_red_left.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\xp_arrow_normal2.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\xp_arrow_normal2.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_edit_btn_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_edit_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\browser_back_disabled.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\browser_back_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\browser_control_bg.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\browser_control_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_fb_arrow_right.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_fb_arrow_right.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vpi__tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\xp_icon_role_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\xp_icon_role_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_level_yellow_5.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\icon_level_yellow_5.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_green_normal.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\btn_green_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_red_pressed.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\btn_red_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_fb_back_selected.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_fb_back_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\empty_view_network_error.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\empty_view_network_error.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_cancel_btn_pressed.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_cancel_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vpi__tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_update_btn_check_off_focused_holo_light.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_update_btn_check_off_focused_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_more_btn_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_more_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vpi__tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_item_pressed.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_item_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_bb_btn_pressed.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_bb_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\browser_refresh_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\browser_refresh_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_spinner_outer1.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_spinner_outer1.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_preference_middle_pressed.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\ic_preference_middle_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\xp_icon_exp.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\xp_icon_exp.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_bb_btn_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_bb_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\apk_open.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\apk_open.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ptr_rotate_default.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\ptr_rotate_default.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_back_btn_pressed.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_back_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_red_normal.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\btn_red_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\xp_check_on_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\xp_check_on_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vpi__tab_unselected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\author_normal_info.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\author_normal_info.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\checkbox_normal2.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\checkbox_normal2.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_preference_first_pressed.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\ic_preference_first_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_preference_first_normal.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\ic_preference_first_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_update_btn_check_on_pressed_holo_light.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_update_btn_check_on_pressed_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_grey_warn_noraml.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\btn_grey_warn_noraml.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\listitem_green_pressed.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\listitem_green_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\xp_icon_role_vip.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\xp_icon_role_vip.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\warn_image_empty.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\warn_image_empty.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\warn_image_loading_bak.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\warn_image_loading_bak.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\listitem_block_normal.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\listitem_block_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_preference_top_normal.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\ic_preference_top_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\base_send_pressed.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\base_send_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_bg.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\browser_forward_pressed.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\browser_forward_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\notification_icon.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\notification_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_grey_normal.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\btn_grey_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_fb_logo.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_fb_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_ok_btn_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_ok_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\base_progress_dialog_image.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\base_progress_dialog_image.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\base_warning_bar_bg3.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\base_warning_bar_bg3.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\poster_default.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\poster_default.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_spinner_inner.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_spinner_inner.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\search_input_blue.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\search_input_blue.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_like_btn_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_like_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tab_bg.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\tab_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\poster_default2.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\poster_default2.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_fb_arrow_right_bak.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_fb_arrow_right_bak.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_fb_send_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_fb_send_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\vpi__tab_unselected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_fb_reply_right_bg.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_fb_reply_right_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_cancel_btn_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_cancel_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\search_box_clear_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\search_box_clear_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_preference_last_pressed.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\ic_preference_last_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\search_close.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\search_close.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_update_btn_check_on_holo_light.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_update_btn_check_on_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_menu_btn_pressed.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_menu_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_fb_reply_content_bg.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_fb_reply_content_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\search_box_clear_pressed.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\search_box_clear_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\listitem_divider.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\listitem_divider.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_fb_title_btn_pressed.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_fb_title_btn_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\wo2b_blue.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\wo2b_blue.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_add_btn_pressed.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_add_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_fb_contact_input_focused.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_fb_contact_input_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_spinner_inner1.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_spinner_inner1.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\api_spinner_black_48.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\api_spinner_black_48.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_level_yellow_1.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\icon_level_yellow_1.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_more_btn_pressed.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_more_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_like_btn_pressed.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_like_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_search_btn_pressed.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_search_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\xp_badge_warning.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\xp_badge_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_bg_translucent.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_bg_translucent.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\radio_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\radio_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\input_blue_normal.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\input_blue_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_play_btn_pressed.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_play_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\search_input_blue_focused.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\search_input_blue_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_fb_bar_bg.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_fb_bar_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_preference_single_normal.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\ic_preference_single_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\warn_image_error.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\warn_image_error.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_green_pressed.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\btn_green_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_play_btn_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_play_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\xp_arrow_pressed2.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\xp_arrow_pressed2.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_green_transparent_normal.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\btn_green_transparent_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\checkbox_round_checked.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\checkbox_round_checked.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\radio_checked.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\radio_checked.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\empty_view_loading_bg.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\empty_view_loading_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\browser_close_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\browser_close_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_level_yellow_3.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\icon_level_yellow_3.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\g_tips.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\g_tips.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ic_preference_one_normal.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\ic_preference_one_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_update_btn_check_on_focused_holo_light.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_update_btn_check_on_focused_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_update_close_bg_tap.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_update_close_bg_tap.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\apk_install.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\apk_install.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_comment_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_comment_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\empty_view_unknown_error.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\empty_view_unknown_error.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\listitem_green_deep_pressed.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\listitem_green_deep_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\chatto_bg_pressed.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\chatto_bg_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\image_not_found_small.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\image_not_found_small.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\xp_icon_gold.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\xp_icon_gold.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\ptr_pull_loading.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\ptr_pull_loading.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_fb_list_item_pressed.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_fb_list_item_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\checkbox_round_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\checkbox_round_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_fb_conversation_bg.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_fb_conversation_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\umeng_fb_contact_input.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\umeng_fb_contact_input.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\listitem_white_pressed.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\listitem_white_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_ok_btn_pressed.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_ok_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\btn_grey_pressed.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\btn_grey_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\g_category_purple_left.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\g_category_purple_left.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\empty_view_loading.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\empty_view_loading.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_comment_pressed.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_comment_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\icon_level_yellow_2.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\icon_level_yellow_2.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_list_btn_pressed.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_list_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\popup_bg.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\popup_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\browser_forward_disabled.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\browser_forward_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\actionbar_add_btn_normal.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\actionbar_add_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\res\\merged\\release\\drawable-hdpi-v4\\tu_listitem_blue_pressed.9.png",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\src\\main\\res\\drawable-hdpi\\tu_listitem_blue_pressed.9.png"
+    }
+]

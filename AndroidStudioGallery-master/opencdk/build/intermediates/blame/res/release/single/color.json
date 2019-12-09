@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\res\\merged\\release\\color\\vpi__light_theme.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\src\\main\\res\\color\\vpi__light_theme.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\res\\merged\\release\\color\\vpi__dark_theme.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\src\\main\\res\\color\\vpi__dark_theme.xml"
+    }
+]

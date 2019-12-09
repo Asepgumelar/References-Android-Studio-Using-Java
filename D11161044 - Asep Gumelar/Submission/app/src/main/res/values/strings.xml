@@ -1,0 +1,348 @@
+<resources>
+    <string name="app_name">My Submission</string>
+
+    <string name="about_me">About Me</string>
+    <string name="title_activity_about">About Me</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="my_name">Asep Gumelar</string>
+    <string name="my_email">asegume@gmail.com</string>
+
+    <string-array name="images_title">
+        <item>YAMAHA NMAX</item>
+        <item>YAMAHA SMAX</item>
+        <item>YAMAHA XMAX</item>
+        <item>YAMAHA TMAX</item>
+        <item>YAMAHA VMAX</item>
+        <item>HONDA PCX</item>
+        <item>HONDA MSX</item>
+        <item>YAMAHA XSR</item>
+        <item>YAMAHA QBIX</item>
+        <item>HONDA GL-MAX</item>
+
+    </string-array>
+
+    <string-array name="images_price">
+        <item>Rp. 27.770.000</item>
+        <item>Rp. 48.000.000</item>
+        <item>Rp. 55.000.000</item>
+        <item>Rp. 299.900.000</item>
+        <item>Rp. 525.000.000</item>
+        <item>Rp. 33.570.000</item>
+        <item>Rp. 29.000.000</item>
+        <item>Rp. 330.000.000</item>
+        <item>Rp. 20.700.000</item>
+        <item>Rp. 29,500,000</item>
+    </string-array>
+
+    <string-array name="images_desc">
+        <item>
+            - Engine type : Single cylinder, 4-stroke, liquid-cooled, SOHC, 4-valves \n
+            - Displacement : 155cc \n
+            - Bore x stroke : 58.0 mm x 58.7 mm \n
+            - Compression ratio : 10.5 : 1 \n
+            - Maximum power : 11.1 kW @ 8,000 rpm \n
+            - Maximum Torque : 14.4 Nm @ 6,000 rpm \n
+            - Lubrication system : Wet sump \n
+            - Fuel system : Fuel Injection \n
+            - Ignition system : TCI \n
+            - Starter system : Electric \n
+            - Transmission system : V-Belt Automatic \n
+            - Fuel consumption : 2.4l/100km \n
+            - CO2 emission : 54g/km \n \n \n
+            CHASSIS : \n
+            - Suspension / Front : Telescopic fork 100 mm \n
+            - Rear suspension system : Unit Swing \n
+            - Rear Travel : 90 mm \n
+            - Front brake : Hydraulic single disc, Ø230 mm \n
+            - Rear brake : Hydraulic single disc, Ø230 mm \n
+            - Front tyre : 110/70-13 \n
+            - Rear tyre : 130/70-13 \n \n \n
+            DIMENSIONS : \n
+            - Overall length : 1,955 mm \n
+            - Overall width : 740 mm \n
+            - Overall height : 1,115 mm \n
+            - Seat height : 765 mm \n
+            - Wheelbase : 1,350 mm \n
+            - Minimum ground clearance : 135 mm \n
+            - Wet Weight : 127kg \n
+            - Fuel tank capacity : 6.6litres \n
+             \n \n \n
+            source : https://www.yamaha-motor.eu/baltic/en/products/scooters/urban-mobility/nmax-155-2019/techspecs/
+        </item>
+        <item>
+            - Engine Type : 155cc liquid-cooled 4-stroke, SOHC single cylinder; 4 valves \n
+            - Bore x Stroke : 58.0mm x 58.7mm \n
+            - Compression Ratio : 11.0:1 \n
+            - Fuel Delivery : Fuel injection \n
+            - Ignition : Digital TCI: Transistor Controlled Ignition \n
+            - Transmission : Automatic CVT \n
+            - Final Drive : V-Belt \n \n \n
+            CHASSIS : \n
+            - Suspension / Front : Telescopic fork; 3.1-in travel \n
+            - Suspension / Rear : Mid-ship, horizontal-positioned rear shock; 3.7-in travel \n
+            - Brakes / Front : Hydraulic disc, 267mm \n
+            - Brakes / Rear : Hydraulic disc, 245mm \n
+            - Tires / Front : 120/70-13 \n
+            - Tires / Rear : 130/70-13 \n \n \n
+            DIMENSIONS : \n
+            - L x W x H : 79.9 in x 28.1 in x 51.0 in \n
+            - Seat Height : 31.3 in \n
+            - Wheelbase : 55.3 in \n
+            - Rake (Castor Angle) : 26.0° \n
+            - Trail : 3.2 in \n
+            - Fuel Capacity : 2.0 gal \n
+            - Fuel Economy** : 81 mpg \n
+            - Wet Weight*** : 328 lb \n
+             \n \n \n
+            source : https://www.yamahamotorsports.com/scooter/models/smax
+        </item>
+        <item>
+            - Engine Type : 292cc liquid-cooled 4-stroke, SOHC single cylinder; 4 valves \n
+            - Bore x Stroke : 70.2mm x 75.9mm \n
+            - Compression Ratio : 10.9:1 \n
+            - Fuel Delivery : Fuel Injection \n
+            - Ignition : TCI: Transistor Controlled Ignition \n
+            - Transmission : Automatic CVT \n
+            - Final Drive : V-Belt \n \n \n
+            CHASSIS : \n
+            - Suspension / Front : 33mm telescopic fork; 4.3-in travel \n
+            - Suspension / Rear : Dual shocks; 3.1-in travel \n
+            - Brakes / Front : Hydraulic disc, 267mm; ABS \n
+            - Brakes / Rear : Hydraulic disc, 245mm; ABS \n
+            - Tires / Front : 120/70-15 Dunlop® Scoot Smart \n
+            - Tires / Rear : 140/70-14 Dunlop® Scoot Smart \n \n \n
+            DIMENSIONS : \n
+            - L x W x H : 86.0 in x 30.5 in x 55.7 in – 57.7 in \n
+            - Seat Height : 31.3 in \n
+            - Wheelbase : 60.6 in \n
+            - Rake (Caster Angle) : 26.5° \n
+            - Trail : 3.7 in \n
+            - Maximum Ground Clearance : 5.3 in \n
+            - Fuel Capacity : 3.4 gal \n
+            - Fuel Economy** : 75 mpg \n
+            - Wet Weight*** : 397 lb \n
+            \n \n \n
+            source : https://www.yamahamotorsports.com/scooter/models/2019/xmax/specifications
+        </item>
+        <item>
+            - Engine type : Forward-inclined parallel 2-cylinder, 4-stroke, liquid-cooled, DOHC, 4-valves \n
+            - Displacement : 530.0cc \n
+            - Bore x stroke : 68.0 mm x 73.0 mm \n
+            - Compression ratio : 10:9 : 1 \n
+            - Maximum power : 33.8 kW @ 6,750 rpm \n
+            - Maximum Torque : 53.0 Nm @ 5,250 rpm \n
+            - Lubrication system : Dry sump \n
+            - Fuel system : Fuel Injection \n
+            - Ignition system : TCI \n
+            - Starter system : Electric \n
+            - Transmission system : V-Belt Automatic \n
+            - Fuel consumption : 5.3l/100km \n
+            - CO2 emission122g/km
+            CHASSIS : \n
+            - Front suspension system : Telescopic fork \n
+            - Rear suspension system : Swingarm \n
+            - Front travel : 120 mm \n
+            - Rear Travel : 117 mm \n
+            - Front brake : Hydraulic dual disc, Ø267 mm \n
+            - Rear brake : Hydraulic single disc, Ø282 mm \n
+            - Front tyre : 120/70-15 \n
+            - Rear tyre : 160/60-15 \n
+            DIMENSIONS : \n
+            - Overall length: 2,200 mm \n
+            - Overall width : 765 mm \n
+            - Overall height : 1,420-1,555 mm (adjustable windscreen) \n
+            - Seat height : 800 mm \n
+            - Wheelbase : 1,575 mm \n
+            - Minimum ground clearance : 125 mm \n
+            - Wet Weight : 216kg \n
+            - Fuel tank capacity : 15litres \n
+             \n \n \n
+            source : https://www.yamaha-motor.eu/baltic/en/products/scooters/sport/tmax-dx-2019/techspecs/
+        </item>
+        <item>
+            - Engine Type : 102-cubic-inch (1679cc) liquid-cooled 65° V-four, DOHC; 16 valves \n
+            - Bore x Stroke : 90.0mm x 66.0mm \n
+            - Compression Ratio : 11.3:1 \n
+            - Fuel Delivery : Fuel Injection with YCC-T and YCC-I \n
+            - Ignition: TCI Transistor Controlled Ignition \n
+            - Transmission : 5-speed, multiplate slipper clutch \n
+            - Final Drive : Shaft \n \n \n
+            CHASSIS : \n
+            - Suspension / Front: 52mm telescopic cartridge fork w/oxidized titanium coating. Fully adjustable preload, compression and rebound; 4.7 in travel \n
+            - Suspension / Rear: Single shock w/remote reservoir and remote adjustable for preload, compression and rebound; 4.3 in travel \n
+            - Brakes / Front : Dual 320mm wave-type discs; radial mount 6-piston calipers, Brembo® radial pump master cylinder \n
+            - Brakes / Rear : 298mm wave-type disc, single-piston caliper and Brembo® master cylinder \n
+            - Tires / Front : 120/70R18 \n
+            - Tires / Rear : 200/50R18 \n \n \n
+            DIMENSIONS : \n
+            - L x W x H : 94.3 in x 32.3 in x 46.9 in \n
+            - Seat Height : 30.5 in \n
+            - Wheelbase : 66.9 in \n
+            - Rake (Caster Angle): n/a \n
+            - Trail : n/a \n
+            - Maximum Ground Clearance : n/a \n
+            - Fuel Capacity : 4.0 gal \n
+            - Fuel Economy** : 27 mpg \n
+            - Wet Weight*** : 683 lb / CA model 686 lb \n
+            \n \n \n
+            source : https://www.yamahamotorsports.com/sport-heritage/models/vmax/specifications
+        </item>
+        <item>
+            - Bore × Stroke (mm) : 52.4 x 57.9mm \n
+            - Carburation : PGM-FI electronic fuel injection \n
+            - Compression Ratio : 0.4590277777777778 \n
+            - C02 Emissions (g/km) : 48 \n
+            - Engine Displacement (cc) : 125cc \n
+            - Engine Type (cm³) : Single-cylinder, liquid cooled, SOHC 4-stroke 2-valve \n
+            - Max. Power Output : 9.0kW @ 8,500rpm \n
+            - Max. Torque : 11.8Nm @ 5,000rpm \n
+            - Oil Capacity (Litres) : 0.9 litres \n \n \n
+            CHASSIS : \n
+            - Front Brake : 220 mm disc with 3 piston caliper \n
+            - Rear Brake : 130 mm drum brake \n
+            - Brake System : CBS(Combined Braking System) \n
+            - Front Tyre : 90/90-14 \n
+            - Rear Tyre : 100/90-14 \n
+            - Front Suspension : 31 mm telescopic forks \n
+            - Rear Suspension : Monoshock \n
+            - Front Wheel Travel : 100 mm \n
+            - Rear Wheel Travel : 75 mm \n \n \n
+            DIMENSIONS : \n
+            - Overall Length : 1931 mm \n
+            - Overall Width : 737 mm \n
+            - Overall Height : 1103 mm \n
+            - Seat Height : 760 mm \n
+            - Ground Clearance : 138 mm \n
+            - Wheelbase : 1315 mm \n
+            - Kerb/Wet Weight : 130 kg \n
+            - Fuel Tank Capacity : 8 litres \n
+             \n \n \n
+            source : https://autos.maxabout.com/bikes/honda/pcx/pcx-150
+        </item>
+        <item>
+            - Engine Type : Single cylinder \n
+            - Displacement : 125cc \n
+            - Bore x stroke : 52.4 x 57.9mm \n
+            - Compression ratio : 9.3:1 \n
+            - Valve train : SOHC, 2 valves per cylinder \n
+            - Fueling : EFI \n
+            - Cooling : Air \n
+            - Transmission : 4-speed \n
+            - Final drive : Chain \n \n \n
+            CHASSIS : \n
+            - Front suspension ; travel: Non-adjustable inverted 31mm fork/3.9 inches \n
+            - Rear suspension ; travel: Single shock/4.1 inches \n
+            - Front tire : 120/70-12 \n
+            - Rear tire : 130/70-12 \n
+            - Front brakes : 220mm disc w/ 2-piston caliper \n
+            - Rear brake : 190mm disc \n
+            - ABS Optional ($200) \n \n \n
+            DIMENSIONS : \n
+            - Wheelbase : 47.2 inches \n
+            - Rake : 25 degrees \n
+            - Trail : 3.2 inches \n
+            - Seat height : 30 inches \n
+            - Fuel capacity : 1.5 gallons \n
+            - Estimated fuel consumption : 134 mpg \n
+            - Curb weight : 229 pounds \n
+             \n \n \n
+            source : https://ultimatemotorcycling.com/2019/03/19/2019-honda-grom-buyers-guide-specs-price/
+        </item>
+        <item>
+            - Engine Type : 847cc liquid-cooled DOHC inline 3-cylinder 4- stroke; 12 valves \n
+            - Bore x Stroke : 78.0mm x 59.1mm \n
+            - Compression Ratio : 11.5:1 \n
+            - Fuel Delivery : Yamaha Fuel Injection with YCC-T \n
+            - Ignition : TCI: Transistor Controlled Ignition \n
+            - Transmission : 6-speed; multiplate assist-and-slipper wet clutch \n
+            - Final Drive : Chain \n \n \n
+            CHASSIS : \n
+            - Suspension / Front : 41mm inverted fork, adjustable preload and rebound damping; 5.4-in travel \n
+            - Suspension / Rear : Single shock, adjustable preload and rebound damping; 5.1-in travel \n
+            - Brakes / Front : Dual 298mm discs; ABS \n
+            - Brakes / Rear : 245mm disc; ABS \n
+            - Tires / Front : 120/70ZR17 \n
+            - Tires / Rear : 180/55ZR17 \n \n \n
+            DIMENSIONS : \n
+            - L x W x H : 81.7 in x 32.1 in x 44.9 in \n
+            - Seat Height : 32.7 in \n
+            - Wheelbase : 56.7 in \n
+            - Rake (Caster Angle) : 25.0° \n
+            - Trail : 4.1 in \n
+            - Maximum Ground Clearance : 5.3 in \n
+            - Fuel Capacity : 3.7 gal \n
+            - Fuel Economy** : 44 mpg \n
+            - Wet Weight*** : 430 lb \n
+             \n \n \n
+            source : https://www.yamahamotorsports.com/sport-heritage/models/xsr900/specifications
+        </item>
+        <item>
+            - Engine Type : Water-cooled 4-stroke, SOHC, Single cylinder \n
+            - Capacity : 125cc \n
+            - Diameter X Steps : 52,4 mm x 57,9 mm \n
+            - The Compression Ratio : 9,5: 1 \n
+            - Ignition : TCI (Transistor Control Ignition) \n
+            - Fuel System : Fuel injection (Blue Core) \n
+            - Starter : Electric and kick starter \n
+            - Transmition : Dry, Centrifugal automatic V-belt automatic \n \n \n
+            CHASSIS : \n
+            - Order : Underbone \n
+            - Front suspension : Telescopic \n
+            - Rear suspension : Unit Swing \n
+            - Front Tire : 100/90-14 \n
+            - Rear Tire : 130/70-14 \n
+            - Front Brake : Disc – ABS \n
+            - Rear Brake : Drum \n \n \n
+            DIMENSIONS : \n
+            - P x L x T : 1860mm X 710mm (standard) \n
+            - The Weight Of The Contents : QBIX Standard 103 kg \n
+            - Seat Height : 775mm \n
+            - The Lowest distance to the Ground : 135mm \n
+            - Wheelbase : 1280 mm \n
+            - Tank capacity : 4.2 L \n
+             \n \n \n
+            source : https://commercialvehicleinfo.com/yamaha-qbix-125-price-in-india/
+        </item>
+        <item>
+            - Engine Type : OHC, 4 Tak, CDI-DC, Battery \n
+            - Capacity : 124,1 cc \n
+            - Bore x Stroke : 56,5 x 49,5 mm \n
+            - Ratio : 9,2 : 1 \n
+            - Cooling : Air \n
+            - Baterry : 12 V – 4 Ah \n
+            - Busi : ND X 24 EP-U9 / NGK DP8EA-9 \n
+            - Transmision : 5-Speed ( 1-N-2-3-4-5) \n
+            - Clutch : Manual, Wet and double clutch \n \n \n
+            CHASSIS : \n
+            - Frame : Diamond Steel \n
+            - Suspension Front : Telescopic \n
+            - Suspension Rear : Swing arm, Double Shock Absorbe \n
+            - Tire Front : 2,75 – 18 – 42P \n
+            - Tire Rear : 3,00 – 18 – 47P \n
+            - Brake Front : Cakram Double Piston \n
+            - Brake Rear : Tromol \n \n \n
+            DIMENSIONS : \n
+            - P x L x T : 1034 mm x 754 mm x 1062 mm \n
+            - Wheelbase : 1281 mm \n
+            - Seat Height : 772 mm \n
+            - The Lowest distance to the Ground : 149 mm \n
+            - Oil Capacity : 0,9 liter \n
+            - Fuel Capacity : 8 liter \n
+            \n \n \n
+            source : https://omgmotor.com/spesifikasi-honda-gl-max-neotech/
+        </item>
+    </string-array>
+
+    <array name="images_src">
+        <item>@drawable/nmax</item>
+        <item>@drawable/smax1</item>
+        <item>@drawable/xmax</item>
+        <item>@drawable/tmax</item>
+        <item>@drawable/vmax1</item>
+        <item>@drawable/pcx</item>
+        <item>@drawable/msx</item>
+        <item>@drawable/xsr</item>
+        <item>@drawable/qbix</item>
+        <item>@drawable/gl_max</item>
+    </array>
+</resources>

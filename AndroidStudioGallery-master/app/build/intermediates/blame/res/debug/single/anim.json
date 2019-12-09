@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_fb_slide_out_from_left.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\anim\\umeng_fb_slide_out_from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\progress_webview_loading.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\anim\\progress_webview_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_close_exit.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\anim\\activity_close_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_fb_slide_in_from_right.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\anim\\umeng_fb_slide_in_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_bottom_out.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\anim\\slide_bottom_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\api_progressbar_pulltorefresh.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\bundles\\default\\res\\anim\\api_progressbar_pulltorefresh.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_view_slide_bottom_out.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\bundles\\default\\res\\anim\\bottom_view_slide_bottom_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_open_enter_top.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\anim\\slide_open_enter_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_open_exit.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\anim\\activity_open_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_open_enter.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\anim\\activity_open_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_in.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\anim\\slide_right_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_left_out.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\anim\\slide_left_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_right_out.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\anim\\slide_right_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\progress_dialog_loading.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\anim\\progress_dialog_loading.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_out.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\anim\\zoom_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_fb_slide_out_from_right.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\anim\\umeng_fb_slide_out_from_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_left_in.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\anim\\slide_left_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_open_enter_bottom.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\anim\\slide_open_enter_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_in.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\bob\\.android\\build-cache\\a50322f239c9185fafd510e2263bf6c9f79edbe4\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_view_slide_bottom_in.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\opencdk\\build\\intermediates\\bundles\\default\\res\\anim\\bottom_view_slide_bottom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\umeng_fb_slide_in_from_left.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\tpumeng\\build\\intermediates\\bundles\\default\\res\\anim\\umeng_fb_slide_in_from_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\hold.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\anim\\hold.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\ad_viewpager_r2l.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\anim\\ad_viewpager_r2l.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\activity_close_enter.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\anim\\activity_close_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_bottom_in.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\anim\\slide_bottom_in.xml"
+    }
+]

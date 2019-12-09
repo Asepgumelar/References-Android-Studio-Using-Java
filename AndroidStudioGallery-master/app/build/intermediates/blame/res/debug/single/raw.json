@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\fish_bubble.mp3",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\raw\\fish_bubble.mp3"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\wo2b_tujie.db",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\raw\\wo2b_tujie.db"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\raw\\release_date.ini",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\src\\main\\res\\raw\\release_date.ini"
+    }
+]

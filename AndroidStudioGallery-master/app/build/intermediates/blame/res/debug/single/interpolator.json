@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\decelerate_quint.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\interpolator\\decelerate_quint.xml"
+    },
+    {
+        "merged": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\app\\build\\intermediates\\res\\merged\\debug\\interpolator\\decelerate_cubic.xml",
+        "source": "C:\\Users\\bob\\Downloads\\android\\AndroidStudioGallery-master\\openwrapper\\build\\intermediates\\bundles\\default\\res\\interpolator\\decelerate_cubic.xml"
+    }
+]
